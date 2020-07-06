@@ -1,5 +1,5 @@
 <?php
-
+    
 class PassHash {
  
     // blowfish

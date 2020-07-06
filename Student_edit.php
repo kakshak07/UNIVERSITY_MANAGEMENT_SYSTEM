@@ -4,7 +4,7 @@
 $conn = mysqli_connect('localhost','root','123456','universitymanagment');
 session_start();
 
-
+ 
       
       
       $c=$_SESSION['aid'];

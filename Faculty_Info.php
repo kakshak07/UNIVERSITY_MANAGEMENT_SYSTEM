@@ -1,7 +1,7 @@
 <?php
 //connect to my sql
 
-$conn = mysqli_connect('localhost','root','123456','universitymanagment');
+$conn = mysqli_connect('localhost','root','123456','universitymanagment');   
 session_start();
 ?>
 <!DOCTYPE html>

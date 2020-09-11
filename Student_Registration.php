@@ -123,7 +123,7 @@ display: inline-block;
 
                  <label><b>Select Hostel</b></label>
                  <select name="hostel">
-                <option default>Hostel Name</option>
+                <option default><Name of Hostel/option>
                  <option value="101">Charles Darwin</option>
                   <option value="102">Albert Einstein</option>
                   <option value="103">Sardar Patel</option>

@@ -26,7 +26,7 @@ class PassHash {
  
  
     // this will be used to compare a password against a hash
-    public static function check_password($hash, $password) {
+    public static function check_password($hash, $password ) {
  
         $full_salt = substr($hash, 0, 29);
  

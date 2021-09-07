@@ -1,7 +1,7 @@
 # UNIVERSITY_MANAGEMENT_SYSTEM
 UNIVERSITY MANAGEMENT SYSTEM 
 
-At the starting of file there is a database connection included.
+At the starting of the file, there is a database connection included.
 
 Change it according to your database password.
 
